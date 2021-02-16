@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Changes showing, => gh-pages
+            Changes showing <p>  => gh-pages </p>
         </p>
       </header>
     </div>
