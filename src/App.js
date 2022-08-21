@@ -8,6 +8,7 @@ function App() {
                 <img src={logo} className="App-logo" alt="logo"/>
                 <p>
                     Changes showing <p> => gh-pages </p>
+                    <p>Working!</p>
                 </p>
             </header>
         </div>
