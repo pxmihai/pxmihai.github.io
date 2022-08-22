@@ -5,11 +5,11 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
-                <img src={logo} className="App-logo" alt="logo"/>
                 <p>
-                    Changes showing <p> => gh-pages </p>
-                    <p>Working!</p>
+                    Hello world :)
                 </p>
+                {/*<img src={logo} className="App-logo" alt="logo"/>*/}
+
             </header>
         </div>
     );
